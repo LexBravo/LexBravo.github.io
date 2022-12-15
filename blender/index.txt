@@ -36,11 +36,11 @@
 <title>index</title>
 </head>
 
-<h2>Photoshop</h2>
-<img src="alexanderbravo.jpg" alt="The Actor's Actor" width="600" height="500">
+<h2>Blender/h2>
+<img src=".jpg" alt="" width="600" height="500">
 <br>
 <h2> Logo</h2>
-<img src="lexlogo.jpg" alt="logo" width="500" height="500">
+<img src=".jpg" alt="" width="500" height="500">
 
 
 </body>
